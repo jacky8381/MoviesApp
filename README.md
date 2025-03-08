@@ -36,7 +36,7 @@ Watch the video demo of CineSuggest in action:
 ## 📜 How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/jacky8381/MoviesApp.git'
+   git clone https://github.com/jacky8381/MoviesApp.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files and build the project.
 4. Run the app on an emulator or a physical device.
