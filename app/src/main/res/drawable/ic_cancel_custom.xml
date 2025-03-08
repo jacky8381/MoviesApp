@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Circular Background -->
+    <path
+        android:fillType="nonZero"
+        android:fillColor="#282E2E"
+    android:pathData="M12,0C5.372,0,0,5.372,0,12c0,6.628,5.372,12,12,12c6.628,0,12,-5.372,12,-12C24,5.372,18.628,0,12,0z" />
+
+    <!-- Thin Cross (❌) with White Gaps -->
+    <path
+        android:strokeWidth="1.5"
+    android:strokeColor="#FFFFFF"
+    android:strokeLineCap="round"
+    android:strokeLineJoin="round"
+    android:fillColor="@android:color/transparent"
+    android:pathData="M7,7 L17,17 M17,7 L7,17" />
+</vector>
