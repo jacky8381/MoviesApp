@@ -20,20 +20,24 @@ The app features a splash screen for a smooth startup experience, Lottie animati
    <img src="screenshots/homepage.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
    <img src="screenshots/infowithoutfav.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
    <img src="screenshots/movieslistpage.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
-   <img src="screenshots/infowithfav.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
 </p>
 <p align="left"> 
+      <img src="screenshots/infowithfav.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
    <img src="screenshots/tvpage.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
-   <img src="screenshots/withsearchhistory.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
-   <img src="screenshots/withfavorites.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
-   <img src="screenshots/withoutsearchhistory.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
+    <img src="screenshots/moviespage.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
 </p>
 <p align="left"> 
-   <img src="screenshots/nofavoritesfound.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
-   <img src="screenshots/moviespage.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
+      <img src="screenshots/withoutsearchhistory.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
+      <img src="screenshots/withsearchhistory.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
    <img src="screenshots/nosearchfound.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
-   <img src="screenshots/seachwithtabchange.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
 </p>
+<p align="left"> 
+    <img src="screenshots/withfavorites.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
+   <img src="screenshots/nofavoritesfound.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
+      <img src="screenshots/seachwithtabchange.jpeg" width="220" height="450"/> &nbsp; &nbsp; &nbsp;
+</p>
+
+
 
 ## 📂 Source Code
 Check out the complete source code here:
